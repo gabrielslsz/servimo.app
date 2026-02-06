@@ -21,6 +21,6 @@ form.addEventListener("submit", (event) => {
   form.reset();
   form.querySelector("button").textContent = "Obrigado!";
   setTimeout(() => {
-    form.querySelector("button").textContent = "Quero participar";
+    form.querySelector("button").textContent = "Comecar agora";
   }, 2200);
 });

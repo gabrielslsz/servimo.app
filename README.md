@@ -1,21 +1,21 @@
 
-# Servimo - Static SaaS MVP
+# Servimo - Minimal SaaS MVP
 
-Minimalist, professional landing page for the Servimo ecosystem.
+Single-card homepage that links to a platform subpage.
 
 ## Structure
 
 - index.html
 - css/
 	- style.css
-- js/
-	- main.js
+- plataformas/
+	- excluir-facebook/
+		- index.html
 
 ## Highlights
 
-- Responsive layout (mobile-first)
-- Light scroll reveal animations
-- Clear CTA and lead capture form (frontend only)
+- Minimal layout with one platform card
+- Dedicated process subpage
 - SEO basic meta tags
 
 ## Usage
