@@ -1,7 +1,7 @@
 
 # Servimo - Minimal SaaS MVP
 
-Single-card homepage that links to a platform subpage.
+Acesse: https://servimo.app/
 
 ## Structure
 
